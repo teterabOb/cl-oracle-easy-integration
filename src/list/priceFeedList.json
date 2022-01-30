@@ -1,0 +1,74 @@
+{
+    "0x2a": "",
+    "0x61": "",
+    "0x13881": "",
+    "0xa869": {
+        "name": "AVAX C-CHAIN",
+        "oracles": 
+        [
+            {
+                "idOracle": 1,
+                "pair": "AVAX / USD",  
+                "decimals": "8",
+                "proxy" : "0x5498BB86BC934c8D34FDA08E81D444153d0D06aD",
+                "scanner": "https://testnet.snowtrace.io/address/0x5498BB86BC934c8D34FDA08E81D444153d0D06aD",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            },
+            {
+                "idOracle": 2,
+                "pair": "BTC / ETH",  
+                "decimals": "18",
+                "proxy" : "0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007",
+                "scanner": "https://testnet.snowtrace.io/address/0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+            },
+            {
+                "idOracle": 3,
+                "pair": "BTC / USD",  
+                "decimals": "8",
+                "proxy" : "0x31CF013A08c6Ac228C94551d535d5BAfE19c602a",
+                "scanner": "https://testnet.snowtrace.io/address/0x31CF013A08c6Ac228C94551d535d5BAfE19c602a",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            },
+            {
+                "idOracle": 4,
+                "pair": "ETH / USD",  
+                "decimals": "8",
+                "proxy" : "0x86d67c3D38D2bCeE722E601025C25a575021c6EA",
+                "scanner": "https://testnet.snowtrace.io/address/0x86d67c3D38D2bCeE722E601025C25a575021c6EA",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            },
+            {
+                "idOracle": 5,
+                "pair": "LINK / ETH",  
+                "decimals": "18",
+                "proxy" : "0xf4060f80f295b34e0C2471461ba43745Aeb186d6",
+                "scanner": "https://testnet.snowtrace.io/address/0xf4060f80f295b34e0C2471461ba43745Aeb186d6",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+            },
+            {
+                "idOracle": 6,
+                "pair": "LINK / USD",  
+                "decimals": "8",
+                "proxy" : "0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470",
+                "scanner": "https://testnet.snowtrace.io/address/0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            },
+            {
+                "idOracle": 7,
+                "pair": "USDT / USD",  
+                "decimals": "8",
+                "proxy" : "0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad",
+                "scanner": "https://testnet.snowtrace.io/address/0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad",
+                "firstIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+                "secondIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            }
+        ]
+    }
+}

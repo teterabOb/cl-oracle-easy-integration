@@ -1,0 +1,3967 @@
+{
+  "contractName": "ContractsListAdvanced",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "AVAX_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "AVAX_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "AVAX_USD_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "BTC_ETH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "BTC_ETH_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "BTC_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "BTC_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "BTC_USD_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_AVAX_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_BTC_ETH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_BTC_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_ETH_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_LINK_ETH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_LINK_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CL_USDT_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ETH_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ETH_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ETH_USD_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LINK_ETH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LINK_ETH_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LINK_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LINK_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LINK_USD_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "USDT_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "USDT_USD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "USDT_USD_NAME",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "USD_ID",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.0+commit.c7dfd78e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"AVAX_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"AVAX_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"AVAX_USD_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"BTC_ETH\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"BTC_ETH_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"BTC_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"BTC_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"BTC_USD_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_AVAX_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_BTC_ETH\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_BTC_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_ETH_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_LINK_ETH\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_LINK_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"CL_USDT_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"ETH_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"ETH_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"ETH_USD_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"LINK_ETH\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"LINK_ETH_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"LINK_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"LINK_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"LINK_USD_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"USDT_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"USDT_USD\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"USDT_USD_NAME\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"USD_ID\",\"outputs\":[{\"internalType\":\"uint8\",\"name\":\"\",\"type\":\"uint8\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/utilities/ContractsListAdvanced.sol\":\"ContractsListAdvanced\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/utilities/ContractsListAdvanced.sol\":{\"keccak256\":\"0x495e275d3bcdc48a4e3a3663745220a37cd6d4e8c56b72ca8684b2e9a537c3ec\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7f7452446fcb9992019d85d0294598abb0494775318c7335fa3e4f8230bf357b\",\"dweb:/ipfs/QmUay9qqsjnZiccUvDXNJAyGnaUwHXJ6gprKu4zt1DsZ6i\"]}},\"version\":1}",
+  "bytecode": "0x61058961003a600b82828239805160001a60731461002d57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600436106101b35760003560e01c80635c55935b11610103578063ce82c3ae116100a1578063e625a8ea1161007b578063e625a8ea14610298578063f1cd1661146102a0578063f85a16c8146102a8578063f97bde78146102b0576101b3565b8063ce82c3ae14610280578063e17c60cc14610288578063e27f5b1214610290576101b3565b8063ac88f44b116100dd578063ac88f44b14610260578063ad362d9214610268578063b5cd9d6a14610270578063c80f0d2114610278576101b3565b80635c55935b146102485780636260f55b1461025057806386aea83314610258576101b3565b80633d0c12781161017057806349517ea31161014a57806349517ea3146102285780635166f0981461023057806356abd12c146102385780635960074f14610240576101b3565b80633d0c1278146101f35780634587bfc41461021857806347e4787d14610220576101b3565b806303ab7892146101b857806310d52ea4146101d65780632dc5226c146101eb57806336199886146101f35780633934bded146102085780633aaa522d14610210575b600080fd5b6101c06102b8565b6040516101cd91906104de565b60405180910390f35b6101de6102d0565b6040516101cd91906104f2565b6101c06102f5565b6101fb61030d565b6040516101cd9190610545565b6101de610312565b6101c0610338565b6101fb61033e565b6101c0610343565b6101c061035b565b6101fb610373565b6101de610378565b6101c061039d565b6101de6103b5565b6101c06103da565b6101c06103f2565b6101c061040a565b6101de610422565b6101de610448565b6101de61046e565b6101c0610494565b6101c06104ac565b6101c06104b1565b6101fb6104c9565b6101fb6104ce565b6101c06104d3565b6101c06104d9565b730b0a7c1f6bd2024d930c9ba5be1ed44d93e5724f81565b60405180604001604052806009815260200168084a886405e408aa8960bb1b81525081565b7386d67c3d38d2bcee722e601025c25a575021c6ea81565b600481565b6040518060400160405280600a81526020016913125392c80bc81554d160b21b81525081565b61019381565b600181565b735498bb86bc934c8d34fda08e81d444153d0d06ad81565b73378e78509a907b1ec5c24d9f0243bd39f7a7b00781565b600581565b60405180604001604052806009815260200168115512080bc81554d160ba1b81525081565b737898accc83587c3c55116c5230c17a6cd9c71bad81565b60405180604001604052806009815260200168109510c80bc81554d160ba1b81525081565b73b767287a7143759f294cfb7b1adbca1140f3de7181565b7334c4c526902d88a3aa98db8a9b802603eb1e347081565b73f4060f80f295b34e0c2471461ba43745aeb186d681565b6040518060400160405280600a81526020016910559056080bc81554d160b21b81525081565b6040518060400160405280600a8152602001691554d115080bc81554d160b21b81525081565b6040518060400160405280600a815260200169098929c96405e408aa8960b31b81525081565b7331cf013a08c6ac228c94551d535d5bafe19c602a81565b606481565b731c908ab14d7b1c579a8af8bd2b9530c17c87f99981565b600381565b600281565b61019581565b60c981565b6001600160a01b0391909116815260200190565b6000602080835283518082850152825b8181101561051e57858101830151858201604001528201610502565b8181111561052f5783604083870101525b50601f01601f1916929092016040019392505050565b60ff9190911681526020019056fea2646970667358221220dcd637de0f0f6fa9ccd712b14db9545d4e71ecf0cda1032dc3d468f0dfa2220864736f6c63430008000033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600436106101b35760003560e01c80635c55935b11610103578063ce82c3ae116100a1578063e625a8ea1161007b578063e625a8ea14610298578063f1cd1661146102a0578063f85a16c8146102a8578063f97bde78146102b0576101b3565b8063ce82c3ae14610280578063e17c60cc14610288578063e27f5b1214610290576101b3565b8063ac88f44b116100dd578063ac88f44b14610260578063ad362d9214610268578063b5cd9d6a14610270578063c80f0d2114610278576101b3565b80635c55935b146102485780636260f55b1461025057806386aea83314610258576101b3565b80633d0c12781161017057806349517ea31161014a57806349517ea3146102285780635166f0981461023057806356abd12c146102385780635960074f14610240576101b3565b80633d0c1278146101f35780634587bfc41461021857806347e4787d14610220576101b3565b806303ab7892146101b857806310d52ea4146101d65780632dc5226c146101eb57806336199886146101f35780633934bded146102085780633aaa522d14610210575b600080fd5b6101c06102b8565b6040516101cd91906104de565b60405180910390f35b6101de6102d0565b6040516101cd91906104f2565b6101c06102f5565b6101fb61030d565b6040516101cd9190610545565b6101de610312565b6101c0610338565b6101fb61033e565b6101c0610343565b6101c061035b565b6101fb610373565b6101de610378565b6101c061039d565b6101de6103b5565b6101c06103da565b6101c06103f2565b6101c061040a565b6101de610422565b6101de610448565b6101de61046e565b6101c0610494565b6101c06104ac565b6101c06104b1565b6101fb6104c9565b6101fb6104ce565b6101c06104d3565b6101c06104d9565b730b0a7c1f6bd2024d930c9ba5be1ed44d93e5724f81565b60405180604001604052806009815260200168084a886405e408aa8960bb1b81525081565b7386d67c3d38d2bcee722e601025c25a575021c6ea81565b600481565b6040518060400160405280600a81526020016913125392c80bc81554d160b21b81525081565b61019381565b600181565b735498bb86bc934c8d34fda08e81d444153d0d06ad81565b73378e78509a907b1ec5c24d9f0243bd39f7a7b00781565b600581565b60405180604001604052806009815260200168115512080bc81554d160ba1b81525081565b737898accc83587c3c55116c5230c17a6cd9c71bad81565b60405180604001604052806009815260200168109510c80bc81554d160ba1b81525081565b73b767287a7143759f294cfb7b1adbca1140f3de7181565b7334c4c526902d88a3aa98db8a9b802603eb1e347081565b73f4060f80f295b34e0c2471461ba43745aeb186d681565b6040518060400160405280600a81526020016910559056080bc81554d160b21b81525081565b6040518060400160405280600a8152602001691554d115080bc81554d160b21b81525081565b6040518060400160405280600a815260200169098929c96405e408aa8960b31b81525081565b7331cf013a08c6ac228c94551d535d5bafe19c602a81565b606481565b731c908ab14d7b1c579a8af8bd2b9530c17c87f99981565b600381565b600281565b61019581565b60c981565b6001600160a01b0391909116815260200190565b6000602080835283518082850152825b8181101561051e57858101830151858201604001528201610502565b8181111561052f5783604083870101525b50601f01601f1916929092016040019392505050565b60ff9190911681526020019056fea2646970667358221220dcd637de0f0f6fa9ccd712b14db9545d4e71ecf0cda1032dc3d468f0dfa2220864736f6c63430008000033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [
+    {
+      "ast": {
+        "nodeType": "YulBlock",
+        "src": "0:1040:22",
+        "statements": [
+          {
+            "nodeType": "YulBlock",
+            "src": "6:3:22",
+            "statements": []
+          },
+          {
+            "body": {
+              "nodeType": "YulBlock",
+              "src": "123:102:22",
+              "statements": [
+                {
+                  "nodeType": "YulAssignment",
+                  "src": "133:26:22",
+                  "value": {
+                    "arguments": [
+                      {
+                        "name": "headStart",
+                        "nodeType": "YulIdentifier",
+                        "src": "145:9:22"
+                      },
+                      {
+                        "kind": "number",
+                        "nodeType": "YulLiteral",
+                        "src": "156:2:22",
+                        "type": "",
+                        "value": "32"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "add",
+                      "nodeType": "YulIdentifier",
+                      "src": "141:3:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "141:18:22"
+                  },
+                  "variableNames": [
+                    {
+                      "name": "tail",
+                      "nodeType": "YulIdentifier",
+                      "src": "133:4:22"
+                    }
+                  ]
+                },
+                {
+                  "expression": {
+                    "arguments": [
+                      {
+                        "name": "headStart",
+                        "nodeType": "YulIdentifier",
+                        "src": "175:9:22"
+                      },
+                      {
+                        "arguments": [
+                          {
+                            "name": "value0",
+                            "nodeType": "YulIdentifier",
+                            "src": "190:6:22"
+                          },
+                          {
+                            "arguments": [
+                              {
+                                "arguments": [
+                                  {
+                                    "kind": "number",
+                                    "nodeType": "YulLiteral",
+                                    "src": "206:3:22",
+                                    "type": "",
+                                    "value": "160"
+                                  },
+                                  {
+                                    "kind": "number",
+                                    "nodeType": "YulLiteral",
+                                    "src": "211:1:22",
+                                    "type": "",
+                                    "value": "1"
+                                  }
+                                ],
+                                "functionName": {
+                                  "name": "shl",
+                                  "nodeType": "YulIdentifier",
+                                  "src": "202:3:22"
+                                },
+                                "nodeType": "YulFunctionCall",
+                                "src": "202:11:22"
+                              },
+                              {
+                                "kind": "number",
+                                "nodeType": "YulLiteral",
+                                "src": "215:1:22",
+                                "type": "",
+                                "value": "1"
+                              }
+                            ],
+                            "functionName": {
+                              "name": "sub",
+                              "nodeType": "YulIdentifier",
+                              "src": "198:3:22"
+                            },
+                            "nodeType": "YulFunctionCall",
+                            "src": "198:19:22"
+                          }
+                        ],
+                        "functionName": {
+                          "name": "and",
+                          "nodeType": "YulIdentifier",
+                          "src": "186:3:22"
+                        },
+                        "nodeType": "YulFunctionCall",
+                        "src": "186:32:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "mstore",
+                      "nodeType": "YulIdentifier",
+                      "src": "168:6:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "168:51:22"
+                  },
+                  "nodeType": "YulExpressionStatement",
+                  "src": "168:51:22"
+                }
+              ]
+            },
+            "name": "abi_encode_tuple_t_address__to_t_address__fromStack_library_reversed",
+            "nodeType": "YulFunctionDefinition",
+            "parameters": [
+              {
+                "name": "headStart",
+                "nodeType": "YulTypedName",
+                "src": "92:9:22",
+                "type": ""
+              },
+              {
+                "name": "value0",
+                "nodeType": "YulTypedName",
+                "src": "103:6:22",
+                "type": ""
+              }
+            ],
+            "returnVariables": [
+              {
+                "name": "tail",
+                "nodeType": "YulTypedName",
+                "src": "114:4:22",
+                "type": ""
+              }
+            ],
+            "src": "14:211:22"
+          },
+          {
+            "body": {
+              "nodeType": "YulBlock",
+              "src": "359:482:22",
+              "statements": [
+                {
+                  "nodeType": "YulVariableDeclaration",
+                  "src": "369:12:22",
+                  "value": {
+                    "kind": "number",
+                    "nodeType": "YulLiteral",
+                    "src": "379:2:22",
+                    "type": "",
+                    "value": "32"
+                  },
+                  "variables": [
+                    {
+                      "name": "_1",
+                      "nodeType": "YulTypedName",
+                      "src": "373:2:22",
+                      "type": ""
+                    }
+                  ]
+                },
+                {
+                  "expression": {
+                    "arguments": [
+                      {
+                        "name": "headStart",
+                        "nodeType": "YulIdentifier",
+                        "src": "397:9:22"
+                      },
+                      {
+                        "name": "_1",
+                        "nodeType": "YulIdentifier",
+                        "src": "408:2:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "mstore",
+                      "nodeType": "YulIdentifier",
+                      "src": "390:6:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "390:21:22"
+                  },
+                  "nodeType": "YulExpressionStatement",
+                  "src": "390:21:22"
+                },
+                {
+                  "nodeType": "YulVariableDeclaration",
+                  "src": "420:27:22",
+                  "value": {
+                    "arguments": [
+                      {
+                        "name": "value0",
+                        "nodeType": "YulIdentifier",
+                        "src": "440:6:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "mload",
+                      "nodeType": "YulIdentifier",
+                      "src": "434:5:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "434:13:22"
+                  },
+                  "variables": [
+                    {
+                      "name": "length",
+                      "nodeType": "YulTypedName",
+                      "src": "424:6:22",
+                      "type": ""
+                    }
+                  ]
+                },
+                {
+                  "expression": {
+                    "arguments": [
+                      {
+                        "arguments": [
+                          {
+                            "name": "headStart",
+                            "nodeType": "YulIdentifier",
+                            "src": "467:9:22"
+                          },
+                          {
+                            "name": "_1",
+                            "nodeType": "YulIdentifier",
+                            "src": "478:2:22"
+                          }
+                        ],
+                        "functionName": {
+                          "name": "add",
+                          "nodeType": "YulIdentifier",
+                          "src": "463:3:22"
+                        },
+                        "nodeType": "YulFunctionCall",
+                        "src": "463:18:22"
+                      },
+                      {
+                        "name": "length",
+                        "nodeType": "YulIdentifier",
+                        "src": "483:6:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "mstore",
+                      "nodeType": "YulIdentifier",
+                      "src": "456:6:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "456:34:22"
+                  },
+                  "nodeType": "YulExpressionStatement",
+                  "src": "456:34:22"
+                },
+                {
+                  "nodeType": "YulVariableDeclaration",
+                  "src": "499:13:22",
+                  "value": {
+                    "name": "tail",
+                    "nodeType": "YulIdentifier",
+                    "src": "508:4:22"
+                  },
+                  "variables": [
+                    {
+                      "name": "i",
+                      "nodeType": "YulTypedName",
+                      "src": "503:1:22",
+                      "type": ""
+                    }
+                  ]
+                },
+                {
+                  "body": {
+                    "nodeType": "YulBlock",
+                    "src": "571:90:22",
+                    "statements": [
+                      {
+                        "expression": {
+                          "arguments": [
+                            {
+                              "arguments": [
+                                {
+                                  "arguments": [
+                                    {
+                                      "name": "headStart",
+                                      "nodeType": "YulIdentifier",
+                                      "src": "600:9:22"
+                                    },
+                                    {
+                                      "name": "i",
+                                      "nodeType": "YulIdentifier",
+                                      "src": "611:1:22"
+                                    }
+                                  ],
+                                  "functionName": {
+                                    "name": "add",
+                                    "nodeType": "YulIdentifier",
+                                    "src": "596:3:22"
+                                  },
+                                  "nodeType": "YulFunctionCall",
+                                  "src": "596:17:22"
+                                },
+                                {
+                                  "kind": "number",
+                                  "nodeType": "YulLiteral",
+                                  "src": "615:2:22",
+                                  "type": "",
+                                  "value": "64"
+                                }
+                              ],
+                              "functionName": {
+                                "name": "add",
+                                "nodeType": "YulIdentifier",
+                                "src": "592:3:22"
+                              },
+                              "nodeType": "YulFunctionCall",
+                              "src": "592:26:22"
+                            },
+                            {
+                              "arguments": [
+                                {
+                                  "arguments": [
+                                    {
+                                      "arguments": [
+                                        {
+                                          "name": "value0",
+                                          "nodeType": "YulIdentifier",
+                                          "src": "634:6:22"
+                                        },
+                                        {
+                                          "name": "i",
+                                          "nodeType": "YulIdentifier",
+                                          "src": "642:1:22"
+                                        }
+                                      ],
+                                      "functionName": {
+                                        "name": "add",
+                                        "nodeType": "YulIdentifier",
+                                        "src": "630:3:22"
+                                      },
+                                      "nodeType": "YulFunctionCall",
+                                      "src": "630:14:22"
+                                    },
+                                    {
+                                      "name": "_1",
+                                      "nodeType": "YulIdentifier",
+                                      "src": "646:2:22"
+                                    }
+                                  ],
+                                  "functionName": {
+                                    "name": "add",
+                                    "nodeType": "YulIdentifier",
+                                    "src": "626:3:22"
+                                  },
+                                  "nodeType": "YulFunctionCall",
+                                  "src": "626:23:22"
+                                }
+                              ],
+                              "functionName": {
+                                "name": "mload",
+                                "nodeType": "YulIdentifier",
+                                "src": "620:5:22"
+                              },
+                              "nodeType": "YulFunctionCall",
+                              "src": "620:30:22"
+                            }
+                          ],
+                          "functionName": {
+                            "name": "mstore",
+                            "nodeType": "YulIdentifier",
+                            "src": "585:6:22"
+                          },
+                          "nodeType": "YulFunctionCall",
+                          "src": "585:66:22"
+                        },
+                        "nodeType": "YulExpressionStatement",
+                        "src": "585:66:22"
+                      }
+                    ]
+                  },
+                  "condition": {
+                    "arguments": [
+                      {
+                        "name": "i",
+                        "nodeType": "YulIdentifier",
+                        "src": "532:1:22"
+                      },
+                      {
+                        "name": "length",
+                        "nodeType": "YulIdentifier",
+                        "src": "535:6:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "lt",
+                      "nodeType": "YulIdentifier",
+                      "src": "529:2:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "529:13:22"
+                  },
+                  "nodeType": "YulForLoop",
+                  "post": {
+                    "nodeType": "YulBlock",
+                    "src": "543:19:22",
+                    "statements": [
+                      {
+                        "nodeType": "YulAssignment",
+                        "src": "545:15:22",
+                        "value": {
+                          "arguments": [
+                            {
+                              "name": "i",
+                              "nodeType": "YulIdentifier",
+                              "src": "554:1:22"
+                            },
+                            {
+                              "name": "_1",
+                              "nodeType": "YulIdentifier",
+                              "src": "557:2:22"
+                            }
+                          ],
+                          "functionName": {
+                            "name": "add",
+                            "nodeType": "YulIdentifier",
+                            "src": "550:3:22"
+                          },
+                          "nodeType": "YulFunctionCall",
+                          "src": "550:10:22"
+                        },
+                        "variableNames": [
+                          {
+                            "name": "i",
+                            "nodeType": "YulIdentifier",
+                            "src": "545:1:22"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "pre": {
+                    "nodeType": "YulBlock",
+                    "src": "525:3:22",
+                    "statements": []
+                  },
+                  "src": "521:140:22"
+                },
+                {
+                  "body": {
+                    "nodeType": "YulBlock",
+                    "src": "695:69:22",
+                    "statements": [
+                      {
+                        "expression": {
+                          "arguments": [
+                            {
+                              "arguments": [
+                                {
+                                  "arguments": [
+                                    {
+                                      "name": "headStart",
+                                      "nodeType": "YulIdentifier",
+                                      "src": "724:9:22"
+                                    },
+                                    {
+                                      "name": "length",
+                                      "nodeType": "YulIdentifier",
+                                      "src": "735:6:22"
+                                    }
+                                  ],
+                                  "functionName": {
+                                    "name": "add",
+                                    "nodeType": "YulIdentifier",
+                                    "src": "720:3:22"
+                                  },
+                                  "nodeType": "YulFunctionCall",
+                                  "src": "720:22:22"
+                                },
+                                {
+                                  "kind": "number",
+                                  "nodeType": "YulLiteral",
+                                  "src": "744:2:22",
+                                  "type": "",
+                                  "value": "64"
+                                }
+                              ],
+                              "functionName": {
+                                "name": "add",
+                                "nodeType": "YulIdentifier",
+                                "src": "716:3:22"
+                              },
+                              "nodeType": "YulFunctionCall",
+                              "src": "716:31:22"
+                            },
+                            {
+                              "name": "tail",
+                              "nodeType": "YulIdentifier",
+                              "src": "749:4:22"
+                            }
+                          ],
+                          "functionName": {
+                            "name": "mstore",
+                            "nodeType": "YulIdentifier",
+                            "src": "709:6:22"
+                          },
+                          "nodeType": "YulFunctionCall",
+                          "src": "709:45:22"
+                        },
+                        "nodeType": "YulExpressionStatement",
+                        "src": "709:45:22"
+                      }
+                    ]
+                  },
+                  "condition": {
+                    "arguments": [
+                      {
+                        "name": "i",
+                        "nodeType": "YulIdentifier",
+                        "src": "676:1:22"
+                      },
+                      {
+                        "name": "length",
+                        "nodeType": "YulIdentifier",
+                        "src": "679:6:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "gt",
+                      "nodeType": "YulIdentifier",
+                      "src": "673:2:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "673:13:22"
+                  },
+                  "nodeType": "YulIf",
+                  "src": "670:2:22"
+                },
+                {
+                  "nodeType": "YulAssignment",
+                  "src": "773:62:22",
+                  "value": {
+                    "arguments": [
+                      {
+                        "arguments": [
+                          {
+                            "name": "headStart",
+                            "nodeType": "YulIdentifier",
+                            "src": "789:9:22"
+                          },
+                          {
+                            "arguments": [
+                              {
+                                "arguments": [
+                                  {
+                                    "name": "length",
+                                    "nodeType": "YulIdentifier",
+                                    "src": "808:6:22"
+                                  },
+                                  {
+                                    "kind": "number",
+                                    "nodeType": "YulLiteral",
+                                    "src": "816:2:22",
+                                    "type": "",
+                                    "value": "31"
+                                  }
+                                ],
+                                "functionName": {
+                                  "name": "add",
+                                  "nodeType": "YulIdentifier",
+                                  "src": "804:3:22"
+                                },
+                                "nodeType": "YulFunctionCall",
+                                "src": "804:15:22"
+                              },
+                              {
+                                "arguments": [
+                                  {
+                                    "kind": "number",
+                                    "nodeType": "YulLiteral",
+                                    "src": "825:2:22",
+                                    "type": "",
+                                    "value": "31"
+                                  }
+                                ],
+                                "functionName": {
+                                  "name": "not",
+                                  "nodeType": "YulIdentifier",
+                                  "src": "821:3:22"
+                                },
+                                "nodeType": "YulFunctionCall",
+                                "src": "821:7:22"
+                              }
+                            ],
+                            "functionName": {
+                              "name": "and",
+                              "nodeType": "YulIdentifier",
+                              "src": "800:3:22"
+                            },
+                            "nodeType": "YulFunctionCall",
+                            "src": "800:29:22"
+                          }
+                        ],
+                        "functionName": {
+                          "name": "add",
+                          "nodeType": "YulIdentifier",
+                          "src": "785:3:22"
+                        },
+                        "nodeType": "YulFunctionCall",
+                        "src": "785:45:22"
+                      },
+                      {
+                        "kind": "number",
+                        "nodeType": "YulLiteral",
+                        "src": "832:2:22",
+                        "type": "",
+                        "value": "64"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "add",
+                      "nodeType": "YulIdentifier",
+                      "src": "781:3:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "781:54:22"
+                  },
+                  "variableNames": [
+                    {
+                      "name": "tail",
+                      "nodeType": "YulIdentifier",
+                      "src": "773:4:22"
+                    }
+                  ]
+                }
+              ]
+            },
+            "name": "abi_encode_tuple_t_string_memory_ptr__to_t_string_memory_ptr__fromStack_library_reversed",
+            "nodeType": "YulFunctionDefinition",
+            "parameters": [
+              {
+                "name": "headStart",
+                "nodeType": "YulTypedName",
+                "src": "328:9:22",
+                "type": ""
+              },
+              {
+                "name": "value0",
+                "nodeType": "YulTypedName",
+                "src": "339:6:22",
+                "type": ""
+              }
+            ],
+            "returnVariables": [
+              {
+                "name": "tail",
+                "nodeType": "YulTypedName",
+                "src": "350:4:22",
+                "type": ""
+              }
+            ],
+            "src": "230:611:22"
+          },
+          {
+            "body": {
+              "nodeType": "YulBlock",
+              "src": "951:87:22",
+              "statements": [
+                {
+                  "nodeType": "YulAssignment",
+                  "src": "961:26:22",
+                  "value": {
+                    "arguments": [
+                      {
+                        "name": "headStart",
+                        "nodeType": "YulIdentifier",
+                        "src": "973:9:22"
+                      },
+                      {
+                        "kind": "number",
+                        "nodeType": "YulLiteral",
+                        "src": "984:2:22",
+                        "type": "",
+                        "value": "32"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "add",
+                      "nodeType": "YulIdentifier",
+                      "src": "969:3:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "969:18:22"
+                  },
+                  "variableNames": [
+                    {
+                      "name": "tail",
+                      "nodeType": "YulIdentifier",
+                      "src": "961:4:22"
+                    }
+                  ]
+                },
+                {
+                  "expression": {
+                    "arguments": [
+                      {
+                        "name": "headStart",
+                        "nodeType": "YulIdentifier",
+                        "src": "1003:9:22"
+                      },
+                      {
+                        "arguments": [
+                          {
+                            "name": "value0",
+                            "nodeType": "YulIdentifier",
+                            "src": "1018:6:22"
+                          },
+                          {
+                            "kind": "number",
+                            "nodeType": "YulLiteral",
+                            "src": "1026:4:22",
+                            "type": "",
+                            "value": "0xff"
+                          }
+                        ],
+                        "functionName": {
+                          "name": "and",
+                          "nodeType": "YulIdentifier",
+                          "src": "1014:3:22"
+                        },
+                        "nodeType": "YulFunctionCall",
+                        "src": "1014:17:22"
+                      }
+                    ],
+                    "functionName": {
+                      "name": "mstore",
+                      "nodeType": "YulIdentifier",
+                      "src": "996:6:22"
+                    },
+                    "nodeType": "YulFunctionCall",
+                    "src": "996:36:22"
+                  },
+                  "nodeType": "YulExpressionStatement",
+                  "src": "996:36:22"
+                }
+              ]
+            },
+            "name": "abi_encode_tuple_t_uint8__to_t_uint8__fromStack_library_reversed",
+            "nodeType": "YulFunctionDefinition",
+            "parameters": [
+              {
+                "name": "headStart",
+                "nodeType": "YulTypedName",
+                "src": "920:9:22",
+                "type": ""
+              },
+              {
+                "name": "value0",
+                "nodeType": "YulTypedName",
+                "src": "931:6:22",
+                "type": ""
+              }
+            ],
+            "returnVariables": [
+              {
+                "name": "tail",
+                "nodeType": "YulTypedName",
+                "src": "942:4:22",
+                "type": ""
+              }
+            ],
+            "src": "846:192:22"
+          }
+        ]
+      },
+      "contents": "{\n    { }\n    function abi_encode_tuple_t_address__to_t_address__fromStack_library_reversed(headStart, value0) -> tail\n    {\n        tail := add(headStart, 32)\n        mstore(headStart, and(value0, sub(shl(160, 1), 1)))\n    }\n    function abi_encode_tuple_t_string_memory_ptr__to_t_string_memory_ptr__fromStack_library_reversed(headStart, value0) -> tail\n    {\n        let _1 := 32\n        mstore(headStart, _1)\n        let length := mload(value0)\n        mstore(add(headStart, _1), length)\n        let i := tail\n        for { } lt(i, length) { i := add(i, _1) }\n        {\n            mstore(add(add(headStart, i), 64), mload(add(add(value0, i), _1)))\n        }\n        if gt(i, length)\n        {\n            mstore(add(add(headStart, length), 64), tail)\n        }\n        tail := add(add(headStart, and(add(length, 31), not(31))), 64)\n    }\n    function abi_encode_tuple_t_uint8__to_t_uint8__fromStack_library_reversed(headStart, value0) -> tail\n    {\n        tail := add(headStart, 32)\n        mstore(headStart, and(value0, 0xff))\n    }\n}",
+      "id": 22,
+      "language": "Yul",
+      "name": "#utility.yul"
+    }
+  ],
+  "sourceMap": "59:1954:20:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;59:1954:20;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "59:1954:20:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1001:77;;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;154:50;;;:::i;:::-;;;;;;;:::i;1663:80::-;;;:::i;765:33::-;;;:::i;:::-;;;;;;;:::i;383:51::-;;;:::i;1169:47::-;;;:::i;557:33::-;;;:::i;1402:80::-;;;:::i;1489:::-;;;:::i;805:33::-;;;:::i;268:50::-;;;:::i;1924:80::-;;;:::i;211:50::-;;;:::i;1085:77::-;;;:::i;1837:80::-;;;:::i;1750:::-;;;:::i;96:51::-;;;:::i;441:::-;;;:::i;325:::-;;;:::i;1576:80::-;;;:::i;877:47::-;;;:::i;1223:77::-;;;:::i;637:33::-;;;:::i;597:::-;;;:::i;1307:47::-;;;:::i;947:::-;;;:::i;1001:77::-;1036:42;1001:77;:::o;154:50::-;;;;;;;;;;;;;;-1:-1:-1;;;154:50:20;;;;:::o;1663:80::-;1701:42;1663:80;:::o;765:33::-;797:1;765:33;:::o;383:51::-;;;;;;;;;;;;;;-1:-1:-1;;;383:51:20;;;;:::o;1169:47::-;1212:3;1169:47;:::o;557:33::-;589:1;557:33;:::o;1402:80::-;1440:42;1402:80;:::o;1489:::-;1527:42;1489:80;:::o;805:33::-;837:1;805:33;:::o;268:50::-;;;;;;;;;;;;;;-1:-1:-1;;;268:50:20;;;;:::o;1924:80::-;1962:42;1924:80;:::o;211:50::-;;;;;;;;;;;;;;-1:-1:-1;;;211:50:20;;;;:::o;1085:77::-;1120:42;1085:77;:::o;1837:80::-;1875:42;1837:80;:::o;1750:::-;1788:42;1750:80;:::o;96:51::-;;;;;;;;;;;;;;-1:-1:-1;;;96:51:20;;;;:::o;441:::-;;;;;;;;;;;;;;-1:-1:-1;;;441:51:20;;;;:::o;325:::-;;;;;;;;;;;;;;-1:-1:-1;;;325:51:20;;;;:::o;1576:80::-;1614:42;1576:80;:::o;877:47::-;920:3;877:47;:::o;1223:77::-;1258:42;1223:77;:::o;637:33::-;669:1;637:33;:::o;597:::-;629:1;597:33;:::o;1307:47::-;1350:3;1307:47;:::o;947:::-;990:3;947:47;:::o;14:211:22:-;-1:-1:-1;;;;;186:32:22;;;;168:51;;156:2;141:18;;123:102::o;230:611::-;;379:2;408;397:9;390:21;440:6;434:13;483:6;478:2;467:9;463:18;456:34;508:4;521:140;535:6;532:1;529:13;521:140;;;630:14;;;626:23;;620:30;596:17;;;615:2;592:26;585:66;550:10;;521:140;;;679:6;676:1;673:13;670:2;;;749:4;744:2;735:6;724:9;720:22;716:31;709:45;670:2;-1:-1:-1;825:2:22;804:15;-1:-1:-1;;800:29:22;785:45;;;;832:2;781:54;;359:482;-1:-1:-1;;;359:482:22:o;846:192::-;1026:4;1014:17;;;;996:36;;984:2;969:18;;951:87::o",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity 0.8.0;\r\n\r\nlibrary ContractsListAdvanced {\r\n    string public constant AVAX_USD_NAME = \"AVAX / USD\";\r\n    string public constant BTC_ETH_NAME  = \"BTC / ETH\";\r\n    string public constant BTC_USD_NAME  = \"BTC / USD\";\r\n    string public constant ETH_USD_NAME  = \"ETH / USD\";\r\n    string public constant LINK_ETH_NAME = \"LINK / ETH\";\r\n    string public constant LINK_USD_NAME = \"LINK / USD\";\r\n    string public constant USDT_USD_NAME = \"USDT / USD\";\r\n\r\n    //internal ids for Tokens to be used as refference\r\n    uint8 public constant AVAX_ID = 1;\r\n    uint8 public constant BTC_ID  = 2;\r\n    uint8 public constant ETH_ID  = 3;\r\n    uint8 public constant LINK_ID = 4;\r\n    //Only use these ids for fiat USD not USDT\r\n    uint8 public constant USDT_ID = 4;\r\n    uint8 public constant USD_ID  = 5;\r\n    \r\n    //Testnet Avalanche \r\n    address public constant AVAX_USD = address(100); //Native Token \r\n    address public constant BTC_ETH  = address(201);\r\n    address public constant BTC_USD  = 0x0B0A7C1F6BD2024D930C9Ba5bE1ed44d93E5724F;\r\n    address public constant ETH_USD  = 0xB767287A7143759f294CfB7b1Adbca1140F3de71;\r\n    address public constant LINK_ETH = address(403);\r\n    address public constant LINK_USD = 0x1C908AB14d7B1c579a8AF8bD2B9530C17c87f999;\r\n    address public constant USDT_USD = address(405);   \r\n\r\n    //Testnet Avalanche Price Feed\r\n    address public constant CL_AVAX_USD = 0x5498BB86BC934c8D34FDA08E81D444153d0D06aD;\r\n    address public constant CL_BTC_ETH  = 0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007;\r\n    address public constant CL_BTC_USD  = 0x31CF013A08c6Ac228C94551d535d5BAfE19c602a;\r\n    address public constant CL_ETH_USD  = 0x86d67c3D38D2bCeE722E601025C25a575021c6EA;\r\n    address public constant CL_LINK_ETH = 0xf4060f80f295b34e0C2471461ba43745Aeb186d6;\r\n    address public constant CL_LINK_USD = 0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470;\r\n    address public constant CL_USDT_USD = 0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad;   \r\n\r\n}",
+  "sourcePath": "E:\\eth\\moralis-front-fabric\\moralis-biconomy-metatransactions\\truffle\\contracts\\utilities\\ContractsListAdvanced.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/utilities/ContractsListAdvanced.sol",
+    "exportedSymbols": {
+      "ContractsListAdvanced": [
+        2337
+      ]
+    },
+    "id": 2338,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 2243,
+        "literals": [
+          "solidity",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:22:20"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "library",
+        "fullyImplemented": true,
+        "id": 2337,
+        "linearizedBaseContracts": [
+          2337
+        ],
+        "name": "ContractsListAdvanced",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "constant": true,
+            "functionSelector": "ad362d92",
+            "id": 2246,
+            "mutability": "constant",
+            "name": "AVAX_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "96:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2244,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "96:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "41564158202f20555344",
+              "id": 2245,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "135:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_b8cc63e05b2b71fa1f3905584b97c49847b1b4db74d1c9b532dbc25e892db15b",
+                "typeString": "literal_string \"AVAX / USD\""
+              },
+              "value": "AVAX / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "10d52ea4",
+            "id": 2249,
+            "mutability": "constant",
+            "name": "BTC_ETH_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "154:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2247,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "154:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "425443202f20455448",
+              "id": 2248,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "193:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_ce5eb3f8e2c234239e3d370e2d54c0d0915235019531f47ea7bd9a6593e2232b",
+                "typeString": "literal_string \"BTC / ETH\""
+              },
+              "value": "BTC / ETH"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5c55935b",
+            "id": 2252,
+            "mutability": "constant",
+            "name": "BTC_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "211:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2250,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "211:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "425443202f20555344",
+              "id": 2251,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "250:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_0e3e290fbc572c3c2d1656bd757b05413d2fc62474d95064641dcabee325eb93",
+                "typeString": "literal_string \"BTC / USD\""
+              },
+              "value": "BTC / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "56abd12c",
+            "id": 2255,
+            "mutability": "constant",
+            "name": "ETH_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "268:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2253,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "268:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "455448202f20555344",
+              "id": 2254,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "307:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_62ddc8c5ffbd077b5a28e92efd10abcc58e66fb2a326401f0efd02e173ac1777",
+                "typeString": "literal_string \"ETH / USD\""
+              },
+              "value": "ETH / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "c80f0d21",
+            "id": 2258,
+            "mutability": "constant",
+            "name": "LINK_ETH_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "325:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2256,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "325:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "4c494e4b202f20455448",
+              "id": 2257,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "364:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_871a38cf1242100f48c4412f21a4a7ab269163b776185c175b20be3f31018b93",
+                "typeString": "literal_string \"LINK / ETH\""
+              },
+              "value": "LINK / ETH"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3934bded",
+            "id": 2261,
+            "mutability": "constant",
+            "name": "LINK_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "383:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2259,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "383:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "4c494e4b202f20555344",
+              "id": 2260,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "422:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_aee369cb2f1f19ec8857a81c8ffed809ac5b13ee0990d33f399c5122fd601712",
+                "typeString": "literal_string \"LINK / USD\""
+              },
+              "value": "LINK / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "b5cd9d6a",
+            "id": 2264,
+            "mutability": "constant",
+            "name": "USDT_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "441:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2262,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "441:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "55534454202f20555344",
+              "id": 2263,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "480:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_f790b27ce47f4ec92e603d65b16f1ed25bd38cea1ec25e8fe439238ad19af514",
+                "typeString": "literal_string \"USDT / USD\""
+              },
+              "value": "USDT / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "4587bfc4",
+            "id": 2267,
+            "mutability": "constant",
+            "name": "AVAX_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "557:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2265,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "557:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "31",
+              "id": 2266,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "589:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_1_by_1",
+                "typeString": "int_const 1"
+              },
+              "value": "1"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f1cd1661",
+            "id": 2270,
+            "mutability": "constant",
+            "name": "BTC_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "597:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2268,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "597:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "32",
+              "id": 2269,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "629:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_2_by_1",
+                "typeString": "int_const 2"
+              },
+              "value": "2"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e625a8ea",
+            "id": 2273,
+            "mutability": "constant",
+            "name": "ETH_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "637:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2271,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "637:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "33",
+              "id": 2272,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "669:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_3_by_1",
+                "typeString": "int_const 3"
+              },
+              "value": "3"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3d0c1278",
+            "id": 2276,
+            "mutability": "constant",
+            "name": "LINK_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "677:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2274,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "677:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "34",
+              "id": 2275,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "709:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_4_by_1",
+                "typeString": "int_const 4"
+              },
+              "value": "4"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "36199886",
+            "id": 2279,
+            "mutability": "constant",
+            "name": "USDT_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "765:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2277,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "765:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "34",
+              "id": 2278,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "797:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_4_by_1",
+                "typeString": "int_const 4"
+              },
+              "value": "4"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5166f098",
+            "id": 2282,
+            "mutability": "constant",
+            "name": "USD_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "805:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2280,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "805:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "35",
+              "id": 2281,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "837:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_5_by_1",
+                "typeString": "int_const 5"
+              },
+              "value": "5"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e17c60cc",
+            "id": 2288,
+            "mutability": "constant",
+            "name": "AVAX_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "877:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2283,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "877:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "313030",
+                  "id": 2286,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "920:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_100_by_1",
+                    "typeString": "int_const 100"
+                  },
+                  "value": "100"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_100_by_1",
+                    "typeString": "int_const 100"
+                  }
+                ],
+                "id": 2285,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "912:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2284,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "912:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2287,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "912:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f97bde78",
+            "id": 2294,
+            "mutability": "constant",
+            "name": "BTC_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "947:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2289,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "947:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "323031",
+                  "id": 2292,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "990:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_201_by_1",
+                    "typeString": "int_const 201"
+                  },
+                  "value": "201"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_201_by_1",
+                    "typeString": "int_const 201"
+                  }
+                ],
+                "id": 2291,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "982:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2290,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "982:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2293,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "982:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "03ab7892",
+            "id": 2297,
+            "mutability": "constant",
+            "name": "BTC_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1001:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2295,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1001:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307830423041374331463642443230323444393330433942613562453165643434643933453537323446",
+              "id": 2296,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1036:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x0B0A7C1F6BD2024D930C9Ba5bE1ed44d93E5724F"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "6260f55b",
+            "id": 2300,
+            "mutability": "constant",
+            "name": "ETH_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1085:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2298,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1085:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307842373637323837413731343337353966323934436642376231416462636131313430463364653731",
+              "id": 2299,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1120:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0xB767287A7143759f294CfB7b1Adbca1140F3de71"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3aaa522d",
+            "id": 2306,
+            "mutability": "constant",
+            "name": "LINK_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1169:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2301,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1169:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "343033",
+                  "id": 2304,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "1212:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_403_by_1",
+                    "typeString": "int_const 403"
+                  },
+                  "value": "403"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_403_by_1",
+                    "typeString": "int_const 403"
+                  }
+                ],
+                "id": 2303,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "1204:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2302,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "1204:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2305,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "1204:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e27f5b12",
+            "id": 2309,
+            "mutability": "constant",
+            "name": "LINK_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1223:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2307,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1223:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307831433930384142313464374231633537396138414638624432423935333043313763383766393939",
+              "id": 2308,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1258:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x1C908AB14d7B1c579a8AF8bD2B9530C17c87f999"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f85a16c8",
+            "id": 2315,
+            "mutability": "constant",
+            "name": "USDT_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1307:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2310,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1307:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "343035",
+                  "id": 2313,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "1350:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_405_by_1",
+                    "typeString": "int_const 405"
+                  },
+                  "value": "405"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_405_by_1",
+                    "typeString": "int_const 405"
+                  }
+                ],
+                "id": 2312,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "1342:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2311,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "1342:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2314,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "1342:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "47e4787d",
+            "id": 2318,
+            "mutability": "constant",
+            "name": "CL_AVAX_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1402:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2316,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1402:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307835343938424238364243393334633844333446444130384538314434343431353364304430366144",
+              "id": 2317,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1440:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x5498BB86BC934c8D34FDA08E81D444153d0D06aD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "49517ea3",
+            "id": 2321,
+            "mutability": "constant",
+            "name": "CL_BTC_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1489:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2319,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1489:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833373845373835303961393037423145633563323464396630323433424433396637413762303037",
+              "id": 2320,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1527:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "ce82c3ae",
+            "id": 2324,
+            "mutability": "constant",
+            "name": "CL_BTC_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1576:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2322,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1576:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833314346303133413038633641633232384339343535316435333564354241664531396336303261",
+              "id": 2323,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1614:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x31CF013A08c6Ac228C94551d535d5BAfE19c602a"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "2dc5226c",
+            "id": 2327,
+            "mutability": "constant",
+            "name": "CL_ETH_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1663:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2325,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1663:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307838366436376333443338443262436545373232453630313032354332356135373530323163364541",
+              "id": 2326,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1701:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x86d67c3D38D2bCeE722E601025C25a575021c6EA"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "ac88f44b",
+            "id": 2330,
+            "mutability": "constant",
+            "name": "CL_LINK_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1750:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2328,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1750:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307866343036306638306632393562333465304332343731343631626134333734354165623138366436",
+              "id": 2329,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1788:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0xf4060f80f295b34e0C2471461ba43745Aeb186d6"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "86aea833",
+            "id": 2333,
+            "mutability": "constant",
+            "name": "CL_LINK_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1837:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2331,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1837:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833344334633532363930326438386133416139384442386139623830323630334542314533343730",
+              "id": 2332,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1875:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5960074f",
+            "id": 2336,
+            "mutability": "constant",
+            "name": "CL_USDT_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1924:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2334,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1924:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307837383938416343433833353837433343353531313663353233304331376136436439433731626164",
+              "id": 2335,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1962:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad"
+            },
+            "visibility": "public"
+          }
+        ],
+        "scope": 2338,
+        "src": "59:1954:20"
+      }
+    ],
+    "src": "33:1980:20"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/utilities/ContractsListAdvanced.sol",
+    "exportedSymbols": {
+      "ContractsListAdvanced": [
+        2337
+      ]
+    },
+    "id": 2338,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 2243,
+        "literals": [
+          "solidity",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:22:20"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "library",
+        "fullyImplemented": true,
+        "id": 2337,
+        "linearizedBaseContracts": [
+          2337
+        ],
+        "name": "ContractsListAdvanced",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "constant": true,
+            "functionSelector": "ad362d92",
+            "id": 2246,
+            "mutability": "constant",
+            "name": "AVAX_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "96:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2244,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "96:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "41564158202f20555344",
+              "id": 2245,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "135:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_b8cc63e05b2b71fa1f3905584b97c49847b1b4db74d1c9b532dbc25e892db15b",
+                "typeString": "literal_string \"AVAX / USD\""
+              },
+              "value": "AVAX / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "10d52ea4",
+            "id": 2249,
+            "mutability": "constant",
+            "name": "BTC_ETH_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "154:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2247,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "154:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "425443202f20455448",
+              "id": 2248,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "193:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_ce5eb3f8e2c234239e3d370e2d54c0d0915235019531f47ea7bd9a6593e2232b",
+                "typeString": "literal_string \"BTC / ETH\""
+              },
+              "value": "BTC / ETH"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5c55935b",
+            "id": 2252,
+            "mutability": "constant",
+            "name": "BTC_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "211:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2250,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "211:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "425443202f20555344",
+              "id": 2251,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "250:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_0e3e290fbc572c3c2d1656bd757b05413d2fc62474d95064641dcabee325eb93",
+                "typeString": "literal_string \"BTC / USD\""
+              },
+              "value": "BTC / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "56abd12c",
+            "id": 2255,
+            "mutability": "constant",
+            "name": "ETH_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "268:50:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2253,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "268:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "455448202f20555344",
+              "id": 2254,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "307:11:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_62ddc8c5ffbd077b5a28e92efd10abcc58e66fb2a326401f0efd02e173ac1777",
+                "typeString": "literal_string \"ETH / USD\""
+              },
+              "value": "ETH / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "c80f0d21",
+            "id": 2258,
+            "mutability": "constant",
+            "name": "LINK_ETH_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "325:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2256,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "325:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "4c494e4b202f20455448",
+              "id": 2257,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "364:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_871a38cf1242100f48c4412f21a4a7ab269163b776185c175b20be3f31018b93",
+                "typeString": "literal_string \"LINK / ETH\""
+              },
+              "value": "LINK / ETH"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3934bded",
+            "id": 2261,
+            "mutability": "constant",
+            "name": "LINK_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "383:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2259,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "383:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "4c494e4b202f20555344",
+              "id": 2260,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "422:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_aee369cb2f1f19ec8857a81c8ffed809ac5b13ee0990d33f399c5122fd601712",
+                "typeString": "literal_string \"LINK / USD\""
+              },
+              "value": "LINK / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "b5cd9d6a",
+            "id": 2264,
+            "mutability": "constant",
+            "name": "USDT_USD_NAME",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "441:51:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_memory_ptr",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 2262,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "441:6:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": {
+              "hexValue": "55534454202f20555344",
+              "id": 2263,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "string",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "480:12:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_stringliteral_f790b27ce47f4ec92e603d65b16f1ed25bd38cea1ec25e8fe439238ad19af514",
+                "typeString": "literal_string \"USDT / USD\""
+              },
+              "value": "USDT / USD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "4587bfc4",
+            "id": 2267,
+            "mutability": "constant",
+            "name": "AVAX_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "557:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2265,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "557:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "31",
+              "id": 2266,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "589:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_1_by_1",
+                "typeString": "int_const 1"
+              },
+              "value": "1"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f1cd1661",
+            "id": 2270,
+            "mutability": "constant",
+            "name": "BTC_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "597:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2268,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "597:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "32",
+              "id": 2269,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "629:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_2_by_1",
+                "typeString": "int_const 2"
+              },
+              "value": "2"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e625a8ea",
+            "id": 2273,
+            "mutability": "constant",
+            "name": "ETH_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "637:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2271,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "637:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "33",
+              "id": 2272,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "669:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_3_by_1",
+                "typeString": "int_const 3"
+              },
+              "value": "3"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3d0c1278",
+            "id": 2276,
+            "mutability": "constant",
+            "name": "LINK_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "677:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2274,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "677:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "34",
+              "id": 2275,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "709:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_4_by_1",
+                "typeString": "int_const 4"
+              },
+              "value": "4"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "36199886",
+            "id": 2279,
+            "mutability": "constant",
+            "name": "USDT_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "765:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2277,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "765:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "34",
+              "id": 2278,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "797:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_4_by_1",
+                "typeString": "int_const 4"
+              },
+              "value": "4"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5166f098",
+            "id": 2282,
+            "mutability": "constant",
+            "name": "USD_ID",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "805:33:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_uint8",
+              "typeString": "uint8"
+            },
+            "typeName": {
+              "id": 2280,
+              "name": "uint8",
+              "nodeType": "ElementaryTypeName",
+              "src": "805:5:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_uint8",
+                "typeString": "uint8"
+              }
+            },
+            "value": {
+              "hexValue": "35",
+              "id": 2281,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "837:1:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_rational_5_by_1",
+                "typeString": "int_const 5"
+              },
+              "value": "5"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e17c60cc",
+            "id": 2288,
+            "mutability": "constant",
+            "name": "AVAX_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "877:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2283,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "877:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "313030",
+                  "id": 2286,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "920:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_100_by_1",
+                    "typeString": "int_const 100"
+                  },
+                  "value": "100"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_100_by_1",
+                    "typeString": "int_const 100"
+                  }
+                ],
+                "id": 2285,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "912:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2284,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "912:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2287,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "912:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f97bde78",
+            "id": 2294,
+            "mutability": "constant",
+            "name": "BTC_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "947:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2289,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "947:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "323031",
+                  "id": 2292,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "990:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_201_by_1",
+                    "typeString": "int_const 201"
+                  },
+                  "value": "201"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_201_by_1",
+                    "typeString": "int_const 201"
+                  }
+                ],
+                "id": 2291,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "982:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2290,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "982:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2293,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "982:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "03ab7892",
+            "id": 2297,
+            "mutability": "constant",
+            "name": "BTC_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1001:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2295,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1001:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307830423041374331463642443230323444393330433942613562453165643434643933453537323446",
+              "id": 2296,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1036:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x0B0A7C1F6BD2024D930C9Ba5bE1ed44d93E5724F"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "6260f55b",
+            "id": 2300,
+            "mutability": "constant",
+            "name": "ETH_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1085:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2298,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1085:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307842373637323837413731343337353966323934436642376231416462636131313430463364653731",
+              "id": 2299,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1120:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0xB767287A7143759f294CfB7b1Adbca1140F3de71"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "3aaa522d",
+            "id": 2306,
+            "mutability": "constant",
+            "name": "LINK_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1169:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2301,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1169:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "343033",
+                  "id": 2304,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "1212:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_403_by_1",
+                    "typeString": "int_const 403"
+                  },
+                  "value": "403"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_403_by_1",
+                    "typeString": "int_const 403"
+                  }
+                ],
+                "id": 2303,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "1204:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2302,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "1204:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2305,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "1204:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "e27f5b12",
+            "id": 2309,
+            "mutability": "constant",
+            "name": "LINK_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1223:77:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2307,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1223:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307831433930384142313464374231633537396138414638624432423935333043313763383766393939",
+              "id": 2308,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1258:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x1C908AB14d7B1c579a8AF8bD2B9530C17c87f999"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "f85a16c8",
+            "id": 2315,
+            "mutability": "constant",
+            "name": "USDT_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1307:47:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2310,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1307:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "arguments": [
+                {
+                  "hexValue": "343035",
+                  "id": 2313,
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "kind": "number",
+                  "lValueRequested": false,
+                  "nodeType": "Literal",
+                  "src": "1350:3:20",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_rational_405_by_1",
+                    "typeString": "int_const 405"
+                  },
+                  "value": "405"
+                }
+              ],
+              "expression": {
+                "argumentTypes": [
+                  {
+                    "typeIdentifier": "t_rational_405_by_1",
+                    "typeString": "int_const 405"
+                  }
+                ],
+                "id": 2312,
+                "isConstant": false,
+                "isLValue": false,
+                "isPure": true,
+                "lValueRequested": false,
+                "nodeType": "ElementaryTypeNameExpression",
+                "src": "1342:7:20",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_type$_t_address_$",
+                  "typeString": "type(address)"
+                },
+                "typeName": {
+                  "id": 2311,
+                  "name": "address",
+                  "nodeType": "ElementaryTypeName",
+                  "src": "1342:7:20",
+                  "typeDescriptions": {}
+                }
+              },
+              "id": 2314,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "typeConversion",
+              "lValueRequested": false,
+              "names": [],
+              "nodeType": "FunctionCall",
+              "src": "1342:12:20",
+              "tryCall": false,
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "47e4787d",
+            "id": 2318,
+            "mutability": "constant",
+            "name": "CL_AVAX_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1402:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2316,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1402:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307835343938424238364243393334633844333446444130384538314434343431353364304430366144",
+              "id": 2317,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1440:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x5498BB86BC934c8D34FDA08E81D444153d0D06aD"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "49517ea3",
+            "id": 2321,
+            "mutability": "constant",
+            "name": "CL_BTC_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1489:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2319,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1489:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833373845373835303961393037423145633563323464396630323433424433396637413762303037",
+              "id": 2320,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1527:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "ce82c3ae",
+            "id": 2324,
+            "mutability": "constant",
+            "name": "CL_BTC_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1576:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2322,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1576:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833314346303133413038633641633232384339343535316435333564354241664531396336303261",
+              "id": 2323,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1614:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x31CF013A08c6Ac228C94551d535d5BAfE19c602a"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "2dc5226c",
+            "id": 2327,
+            "mutability": "constant",
+            "name": "CL_ETH_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1663:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2325,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1663:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307838366436376333443338443262436545373232453630313032354332356135373530323163364541",
+              "id": 2326,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1701:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x86d67c3D38D2bCeE722E601025C25a575021c6EA"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "ac88f44b",
+            "id": 2330,
+            "mutability": "constant",
+            "name": "CL_LINK_ETH",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1750:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2328,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1750:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307866343036306638306632393562333465304332343731343631626134333734354165623138366436",
+              "id": 2329,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1788:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0xf4060f80f295b34e0C2471461ba43745Aeb186d6"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "86aea833",
+            "id": 2333,
+            "mutability": "constant",
+            "name": "CL_LINK_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1837:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2331,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1837:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307833344334633532363930326438386133416139384442386139623830323630334542314533343730",
+              "id": 2332,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1875:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470"
+            },
+            "visibility": "public"
+          },
+          {
+            "constant": true,
+            "functionSelector": "5960074f",
+            "id": 2336,
+            "mutability": "constant",
+            "name": "CL_USDT_USD",
+            "nodeType": "VariableDeclaration",
+            "scope": 2337,
+            "src": "1924:80:20",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_address",
+              "typeString": "address"
+            },
+            "typeName": {
+              "id": 2334,
+              "name": "address",
+              "nodeType": "ElementaryTypeName",
+              "src": "1924:7:20",
+              "stateMutability": "nonpayable",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              }
+            },
+            "value": {
+              "hexValue": "307837383938416343433833353837433343353531313663353233304331376136436439433731626164",
+              "id": 2335,
+              "isConstant": false,
+              "isLValue": false,
+              "isPure": true,
+              "kind": "number",
+              "lValueRequested": false,
+              "nodeType": "Literal",
+              "src": "1962:42:20",
+              "typeDescriptions": {
+                "typeIdentifier": "t_address",
+                "typeString": "address"
+              },
+              "value": "0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad"
+            },
+            "visibility": "public"
+          }
+        ],
+        "scope": 2338,
+        "src": "59:1954:20"
+      }
+    ],
+    "src": "33:1980:20"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.0+commit.c7dfd78e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.4",
+  "updatedAt": "2022-01-30T21:43:04.850Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
