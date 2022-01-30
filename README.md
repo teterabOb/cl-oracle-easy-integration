@@ -4,6 +4,12 @@ This application has been developed for all those developers who want to impleme
 
 The developer can easily obtain the value of the cryptocurrency with 18 decimal places without the need to do any additional calculation, the contract does it automatically according to the number of decimal places provided by Chainlink. This makes integration easy for the developer to focus on developing their use case, implementing the industry standard decentralized oracle network provided by Chainlink.
 
+The user can manage any of the pairs provided by Chainlink for the Avalanche Blockchain.
+
+Visit the following link to try it.
+
+[Application](https://eft3ygowizon.usemoralis.com/oraclefabric)
+
 [![Proxy Contracts](https://i.postimg.cc/VvkZcLMP/Captura.png)](https://postimg.cc/zb4FCN0x)
 
 # Interface Methods
@@ -36,7 +42,12 @@ interface IOneClickOracleBasic{
 
 Deployed on Avalanche Fuji testnet.
 
-Fabric Contract Address: 0x0B9DDBd125aA31decF6B90108194fFF1216A09b1
+Fabric Contract Address:
+
+```jsx
+ 0x0B9DDBd125aA31decF6B90108194fFF1216A09b1
+ ```
+
 # Chainlink Price Feed dApp
 
 
