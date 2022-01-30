@@ -4,7 +4,7 @@ This application has been developed for all those developers who want to impleme
 
 The developer can easily obtain the value of the cryptocurrency with 18 decimal places without the need to do any additional calculation, the contract does it automatically according to the number of decimal places provided by Chainlink. This makes integration easy for the developer to focus on developing their use case, implementing the industry standard decentralized oracle network provided by Chainlink.
 
-![Proxy Contracts]("https://i.ibb.co/VNfRFvG/Captura.png")
+[![Proxy Contracts](https://i.postimg.cc/VvkZcLMP/Captura.png)](https://postimg.cc/zb4FCN0x)
 # Contracts for Moralis x Avalanche Hackathon
 
 Deployed on Avalanche Fuji testnet.
