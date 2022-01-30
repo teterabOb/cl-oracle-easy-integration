@@ -83,7 +83,7 @@ const App = () => {
               <HowToUseIt />
             </Route>
             <Route>
-              <Redirect to="/oraclefabric" />
+              <Redirect to="/" />
             </Route>
           </Switch>
         </div>

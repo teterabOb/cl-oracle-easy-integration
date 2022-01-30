@@ -125,7 +125,7 @@ export default function DrawerTryOut({ addresOneClickContract, linkedAddress, is
 
             <Col span={12}>
               <Typography.Text strong style={{ fontSize: "16px" }}>
-                Sixteen Decimals Contract Result
+                Eighteen Decimals Contract Result
               </Typography.Text>
               <Input
                 style={{ width: '100%' }}
