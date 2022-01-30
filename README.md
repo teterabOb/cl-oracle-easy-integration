@@ -5,6 +5,33 @@ This application has been developed for all those developers who want to impleme
 The developer can easily obtain the value of the cryptocurrency with 18 decimal places without the need to do any additional calculation, the contract does it automatically according to the number of decimal places provided by Chainlink. This makes integration easy for the developer to focus on developing their use case, implementing the industry standard decentralized oracle network provided by Chainlink.
 
 [![Proxy Contracts](https://i.postimg.cc/VvkZcLMP/Captura.png)](https://postimg.cc/zb4FCN0x)
+
+# Interface Methods
+
+```jsx
+interface IOneClickOracleBasic{
+  struct Oracle {
+    int8 id;
+    string name;
+    address token;
+    address priceFeed;
+    bool state;
+  }
+  
+  //@dev returns price with 18 decimals
+  function getOraclePrice(address) external view returns (int256);    
+  //@dev returns latest answer provided by proxy contract with default decimals
+  function getLatestAnswer(address) external view returns (uint256);
+  //@dev returns historical price providing address and roundId
+  function getHistoricalPrice(address, uint256) external view returns(int256);
+
+  event priceFeedAdded(address indexed _token, address indexed _priceFeed);
+  event priceFeedUpdated(Oracle indexed _Oracle);
+  event newOwner(address indexed _newOwner);
+}
+```
+ 
+
 # Contracts for Moralis x Avalanche Hackathon
 
 Deployed on Avalanche Fuji testnet.
