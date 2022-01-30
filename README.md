@@ -8,7 +8,7 @@ The user can manage any of the pairs provided by Chainlink for the Avalanche Blo
 
 Visit the following link to try it.
 
-[Application](https://eft3ygowizon.usemoralis.com/oraclefabric)
+[Application](https://eft3ygowizon.usemoralis.com/)
 
 [![Proxy Contracts](https://i.postimg.cc/VvkZcLMP/Captura.png)](https://postimg.cc/zb4FCN0x)
 
