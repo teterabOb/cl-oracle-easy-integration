@@ -167,9 +167,6 @@ export default function DrawerTryOut({ addresOneClickContract, linkedAddress, is
               />
             </Col>
             <Col span={12}>
-              <Typography.Text strong style={{ fontSize: "16px" }}>
-                Contract Result
-              </Typography.Text>
               <Input
                 style={{ width: '100%' }}
                 placeholder="Result"
@@ -178,17 +175,6 @@ export default function DrawerTryOut({ addresOneClickContract, linkedAddress, is
               />
             </Col>
             <Col span={12}>
-              <Typography.Text strong style={{ fontSize: "16px" }}>
-                Formatted Result
-              </Typography.Text>
-              <Input
-                style={{ width: '100%' }}
-                placeholder="Result"
-                value={oraclePrice != undefined ? web3.utils.fromWei(oraclePrice.toString()) : oraclePrice}
-                disabled={true}
-              />
-            </Col>
-            <Col span={24}>
               <Button type="primary" block onClick={() => onGetHistoricalPrice()}>getHistoricalPrice( )</Button>
             </Col>
           </Row>
@@ -196,9 +182,6 @@ export default function DrawerTryOut({ addresOneClickContract, linkedAddress, is
           <Divider>Function</Divider>
           <Row gutter={[16, 16]}>
             <Col span={12}>
-              <Typography.Text strong style={{ fontSize: "16px" }}>
-                Contract Result
-              </Typography.Text>
               <Input
                 style={{ width: '100%' }}
                 placeholder="Result"
@@ -207,17 +190,6 @@ export default function DrawerTryOut({ addresOneClickContract, linkedAddress, is
               />
             </Col>
             <Col span={12}>
-              <Typography.Text strong style={{ fontSize: "16px" }}>
-                Formatted Result
-              </Typography.Text>
-              <Input
-                style={{ width: '100%' }}
-                placeholder="Result"
-                value={latestAnswer != undefined ? web3.utils.fromWei(latestAnswer.toString(), "gwei") : latestAnswer}
-                disabled={true}
-              />
-            </Col>
-            <Col span={24}>
               <Button type="primary" block onClick={() => onGetLatestAnswer()}>getLatestAnswer( )</Button>
             </Col>
           </Row>

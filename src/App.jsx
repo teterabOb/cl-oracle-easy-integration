@@ -15,6 +15,7 @@ import MenuItems from "./components/MenuItems";
 import AdminPanel from "components/AdminPanel/AdminPanel";
 import Fabric from "components/Fabric/Fabric";
 import HowToUseIt from "components/HowToUseIt/HowToUseIt"
+import { GithubOutlined, StarFilled, StarTwoTone } from '@ant-design/icons';
 
 
 const styles = {
@@ -63,6 +64,7 @@ const App = () => {
     >
       <Router>
         <Layout.Header style={styles.header}>
+        
           <MenuItems />
           <div style={styles.headerRight}>
             <Chains />
@@ -76,14 +78,17 @@ const App = () => {
             <Route exact path="/oraclefabric">
               <Fabric />
             </Route>
-            <Route exact path="/adminpanel">
+            <Route path="/adminpanel">
               <AdminPanel />
             </Route>
-            <Route exact path="/howtouseit">
+            <Route path="/howtouseit">
               <HowToUseIt />
             </Route>
-            <Route>
-              <Redirect to="/" />
+            <Route path="/">
+              <Redirect to="/oraclefabric" />
+            </Route>
+            <Route path="/nonauthenticated">
+              <>Please login using the "Authenticate" button</>
             </Route>
           </Switch>
         </div>
@@ -98,8 +103,8 @@ const App = () => {
           gap: "2rem",
         }}
       >
-        <ByMoralis width={300} variant="dark" />
-
+        <ByMoralis width={250} variant="dark" />
+       
       </Layout.Footer>
     </Layout>
   );
